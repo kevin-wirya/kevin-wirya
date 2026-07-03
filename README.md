@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Kevin Wirya Valerian! 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Competitive+Programmer;Full-Stack+Web+Developer;Theoretical+CS+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Competitive+Programmer;Full-Stack+Developer;Theoretical+CS+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -49,12 +49,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-wirya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevin-wirya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kevin's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-wirya&theme=tokyonight&hide_border=true&background=0D1117" alt="Kevin's GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wirya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevin-wirya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
