@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./img/header.png" alt="Header Image" width="100%" style="border-radius: 15px;" />
+</div>
+
+<br/>
+
+<div align="center">
   <h1>Hi there, I'm Kevin Wirya Valerian! 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Competitive+Programmer;Full-Stack+Developer;Theoretical+CS+Enthusiast" alt="Typing SVG" />
 </div>
